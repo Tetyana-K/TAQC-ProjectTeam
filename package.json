@@ -1,0 +1,26 @@
+{
+  "name": "taqc-projectteam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetyana-K/TAQC-ProjectTeam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tetyana-K/TAQC-ProjectTeam/issues"
+  },
+  "homepage": "https://github.com/Tetyana-K/TAQC-ProjectTeam#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
